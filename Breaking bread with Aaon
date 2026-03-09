@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Breaking Bread with Aaron</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Breaking Bread with Aaron</h1>
+<p>📍 Bella Vista, Sangolda, Goa</p>
+
+<section>
+<h2>About Cafe</h2>
+
+<p><b>Service options</b><br>
+In-store pick-up • Delivery • On-site services • Takeaway • Dine-in</p>
+
+<p><b>Accessibility</b><br>
+Wheelchair-accessible car park • Wheelchair-accessible entrance</p>
+
+<p><b>Offerings</b><br>
+Coffee</p>
+
+<p><b>Dining options</b><br>
+Breakfast</p>
+
+<p><b>Amenities</b><br>
+Restroom</p>
+
+<p><b>Planning</b><br>
+Quick visit</p>
+
+<p><b>Payments</b><br>
+Credit cards • Google Pay • Debit cards • NFC mobile payments</p>
+
+<p><b>Parking</b><br>
+Free parking lot • Free street parking • Paid parking lot</p>
+
+</section>
+
+<section>
+
+<h2>Menu</h2>
+
+<h3>Beverages</h3>
+
+<ul>
+<li>Cappuccino – ₹80</li>
+<li>Cafe Latte – ₹80</li>
+<li>Hazelnut Latte – ₹120</li>
+<li>Cafe Mocha – ₹120</li>
+<li>Espresso – ₹65</li>
+<li>Double Espresso – ₹110</li>
+<li>Americano – ₹80</li>
+<li>Cold Coffee – ₹165</li>
+<li>Tea (Masala Chai / English Breakfast) – ₹75</li>
+<li>Green Tea – ₹70</li>
+<li>Fruit Juice – ₹100</li>
+<li>Bottled Water – ₹10</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>Contact</h2>
+
+<p>📞 08530696214</p>
+
+</section>
+
+<section>
+
+<h2>Opening Hours</h2>
+
+<p>Monday – Sunday : 8:00 AM – 8:00 PM</p>
+
+<h3>Breakfast</h3>
+
+<p>8:00 AM – 11:30 AM</p>
+
+</section>
+
+<section>
+
+<h2>Location</h2>
+
+<iframe
+src="https://maps.google.com/maps?q=Breaking%20Bread%20With%20Aaron%20Sangolda%20Goa&t=&z=13&ie=UTF8&iwloc=&output=embed"
+width="300"
+height="200">
+</iframe>
+
+</section>
+
+</body>
+</html>
